@@ -149,9 +149,6 @@
                 <div :style="fixStyle" class="filter">
 
                 </div>
-                <video :style="fixStyle" autoplay loop class="fillWidth" v-on:canplay="canplay" muted>
-                    <source src="../../assets/groud.mp4" type="video/mp4"/>
-                </video>
             </div>
         </div>
 

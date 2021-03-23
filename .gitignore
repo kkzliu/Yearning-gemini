@@ -24,3 +24,5 @@ package-lock.json
 
 #Electron-builder output
 /dist_electron
+
+yarn.lock
